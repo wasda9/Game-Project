@@ -1,0 +1,21 @@
+#canvas1{
+    position: absolute;
+    top: 0.81%;
+    left: 0.82%;
+    transform: tranlate (-50%, -50%);
+    width: 600px;
+    height: 400px;
+    border: 2px solid black;
+
+}
+#instruction {
+    position: absolute;
+    top: 0;
+    right: 10px; /* Adjust the distance from the right */
+    left: 660px;
+}
+#replayButton {
+    position: absolute;
+    right: 40%;
+    bottom: 80%;
+}
